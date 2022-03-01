@@ -23,8 +23,6 @@ public class UserRegistration {
 
         System.out.println("Enter your Password:");
         userRegistration.password();
-
-        System.out.println("Registration Successful");
     }
 
     private void name() {
